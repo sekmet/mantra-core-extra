@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.8.0
+
+* Updated deps and code to support React v16.x.x.
+
 ### v1.7.0
 
 * Update react-storybook to v1.9.0 to support stubbing.

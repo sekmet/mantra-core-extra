@@ -1,6 +1,6 @@
 import {
   useDeps as _useDeps
-} from 'react-simple-di';
+} from 'react-simple-di-extra';
 
 import {
   compose as _compose,
