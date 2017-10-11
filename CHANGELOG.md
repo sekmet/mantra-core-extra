@@ -1,5 +1,9 @@
 # Change Log
 
+### v1.8.1
+
+* Move react-simple-di-extra and react-komposer to peerDependencies.
+
 ### v1.8.0
 
 * Updated deps and code to support React v16.x.x.

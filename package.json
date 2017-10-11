@@ -33,7 +33,9 @@
     "react": "^15.0.0"
   },
   "dependencies": {
-    "babel-runtime": "6.x.x",
+    "babel-runtime": "6.x.x"
+  },
+  "peerDependencies": {
     "react-komposer": "^2.0.0",
     "react-simple-di-extra": "^1.3.3"
   }
