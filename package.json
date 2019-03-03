@@ -4,7 +4,7 @@
   "description": "Core API for Mantra. Originally by mantrajs.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmpg/mantra-core-extra.git"
+    "url": "https://github.com/sekmet/mantra-core-extra.git"
   },
   "license": "MIT",
   "options": {
