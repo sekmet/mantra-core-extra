@@ -9,7 +9,7 @@ import {
   composeWithObservable as _composeWithObservable,
   composeAll as _composeAll,
   disable as _disable,
-} from 'react-komposer';
+} from '@storybook/react-komposer';
 
 import App from './app';
 
